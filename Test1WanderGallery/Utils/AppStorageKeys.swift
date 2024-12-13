@@ -1,8 +1,4 @@
-//
-//  AppStorageKeys.swift
-//  Test1WanderGallery
-//
-//  Created by Pablo on 11-12-24.
-//
-
-import Foundation
+struct AppStorageKeys {
+    static let isGalleryOpen = "isGalleryOpen"
+    static let username = "username"
+}

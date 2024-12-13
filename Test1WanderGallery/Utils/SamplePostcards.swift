@@ -1,8 +1,22 @@
-//
-//  SamplePostcards.swift
-//  Test1WanderGallery
-//
-//  Created by Pablo on 11-12-24.
-//
-
-import Foundation
+let samplePostcards = [
+    Postcard(image: "image1", title: "Paris", description: "The city of love."),
+    Postcard(image: "image2", title: "New York", description: "The city that never sleeps."),
+    Postcard(image: "image3", title: "Tokyo", description: "A blend of technology and tradition."),
+    Postcard(image: "image4", title: "London", description: "The heart of British culture."),
+    Postcard(image: "image5", title: "Sydney", description: "Home of the famous Opera House."),
+    Postcard(image: "image6", title: "Rome", description: "The eternal city."),
+    Postcard(image: "image7", title: "Cairo", description: "Gateway to the ancient pyramids."),
+    Postcard(image: "image8", title: "Rio de Janeiro", description: "Famous for its vibrant carnival."),
+    Postcard(image: "image9", title: "Cape Town", description: "Where mountains meet the sea."),
+    Postcard(image: "image10", title: "Barcelona", description: "Gaudí's architectural masterpiece."),
+    Postcard(image: "image11", title: "Bangkok", description: "The bustling capital of Thailand."),
+    Postcard(image: "image12", title: "Moscow", description: "A city of historical grandeur."),
+    Postcard(image: "image13", title: "Istanbul", description: "Where Europe meets Asia."),
+    Postcard(image: "image14", title: "Dubai", description: "A modern oasis in the desert."),
+    Postcard(image: "image15", title: "Singapore", description: "A garden city in Southeast Asia."),
+    Postcard(image: "image16", title: "Buenos Aires", description: "The city of tango."),
+    Postcard(image: "image17", title: "San Francisco", description: "Home to the iconic Golden Gate Bridge."),
+    Postcard(image: "image18", title: "Hawaii", description: "Paradise in the Pacific."),
+    Postcard(image: "image19", title: "Athens", description: "The cradle of Western civilization."),
+    Postcard(image: "image20", title: "Reykjavik", description: "Gateway to the Northern Lights.")
+]
