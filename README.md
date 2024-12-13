@@ -65,6 +65,8 @@ This project demonstrates:
 
 ## Video
 
+https://github.com/user-attachments/assets/96665bdd-aeb6-49e3-b082-65d8f97c8cbf
+
 ---
 
-### Developed as part of the SwiftUI Course by **DesafíoLatam**.
+### Developed as part of the Swift Course by **DesafíoLatam**.
